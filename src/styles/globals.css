@@ -526,9 +526,6 @@ body::after { content:""; position:fixed; inset:0; pointer-events:none; z-index:
 @media (max-width:560px){.home-stat-strip{grid-template-columns:1fr}.home-stat{border-right:0!important;border-bottom:1px solid rgba(255,255,255,.07)}.home-stat:last-child{border-bottom:0}}
 
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&display=swap');
-
-
 /* =========================================================
    RESET
 ========================================================= */
